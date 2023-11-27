@@ -9,6 +9,10 @@
 # Problem Description
 **Aim**:To perform Mutation Testing on a source code. Here, the mutated program needs to be strongly killed by the designed test suite. At least 80% of the mutants should be killed.
 
+# PITest Report
+![image](https://github.com/Madhav-07/Software-Testing-Project/assets/79004348/f355a07b-199d-4fb3-8d84-5fae64382462)
+
+
 # How to Run
 We created a make file containing the following commands:
 
@@ -17,6 +21,7 @@ We created a make file containing the following commands:
  This command will clean, compile, and install the project
  
 `make pitest`
+
 
 This command will run the PIT mutation testing on our project and it generates detailed reports.
 
