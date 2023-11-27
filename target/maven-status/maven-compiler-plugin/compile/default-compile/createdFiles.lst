@@ -1,0 +1,17 @@
+org/example/files/MyRentFiles.class
+org/example/cli/ManagersCLI.class
+org/example/files/MyMemberFiles.class
+org/example/files/Files.class
+org/example/files/MyBookFiles.class
+org/example/utils/ConsoleColors.class
+org/example/library/Rent.class
+org/example/utils/ArraysHelper.class
+org/example/library/Book.class
+org/example/person/Member.class
+org/example/App.class
+org/example/person/Person.class
+org/example/interfaces/Operations.class
+org/example/cli/MainCLI.class
+org/example/cli/MembersCLI.class
+org/example/files/MyManagerFiles.class
+org/example/person/Manager.class
